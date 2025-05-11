@@ -67,3 +67,18 @@ This project covers a series of standard Jenkins sysadmin tasks.
 
 ### Install the Matrix Authorization Strategy plugin in the GUI.
 ![Step1-19](images/step1-19.png)
+
+### Create list view in the GUI.
+![Step1-20](images/step1-20.png)
+
+### Confirm the run history of a specific job in the GUI.
+![Step1-21](images/step1-21.png)
+
+### Change the number of executors from 2 to 4 in the GUI.
+![Step1-22](images/step1-22.png)
+
+### Add automatic install of Maven version and specify the version number.
+![Step1-23](images/step1-23.png)
+
+### Change the SCM checkout counter.
+![Step1-24](images/step1-24.png)
