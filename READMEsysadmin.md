@@ -82,3 +82,12 @@ This project covers a series of standard Jenkins sysadmin tasks.
 
 ### Change the SCM checkout counter.
 ![Step1-24](images/step1-24.png)
+
+### Install ThinBackup plugin.
+![Step1-25](images/step1-25.png)
+
+### Run backup using the ThinBackup plugin and validate backup present on the host in the backup directory.
+![Step1-26](images/step1-26.png)
+
+### Testing backup restore using the ThinkBackup plugin in the GUI.
+![Step1-27](images/step1-27.png)
