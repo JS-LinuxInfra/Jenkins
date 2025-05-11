@@ -109,3 +109,12 @@ This project covers a series of standard Jenkins sysadmin tasks.
 
 ### Configure the Jenkins Default Dashboard in Grafana.
 ![Step1-32](images/step1-32.png)
+
+### Create hello-world test job, run and ensure that it completes succesfully. 
+![Step1-33](images/step1-33.png)
+
+### Add steps to clone the git repo and run the test script.
+![Step1-34](images/step1-34.png)
+
+### Confirm the go-test job ran without issue.
+![Step1-35](images/step1-35.png)
