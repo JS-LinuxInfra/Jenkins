@@ -37,3 +37,33 @@ This project covers a series of standard Jenkins sysadmin tasks.
 
 ### Uninstall AWS batch plugin via GUI.
 ![Step1-9](images/step1-9.png)
+
+### Install plugin via CLI.
+![Step1-10](images/step1-10.png)
+
+### List installed plugins, source and version on host using the CLI.
+![Step1-11](images/step1-11.png)
+
+### Disable and enable a plugin using the CLI.
+![Step1-12](images/step1-12.png)
+
+### Create user using the GUI.
+![Step1-13](images/step1-13.png)
+
+### Install Role-Based authorization strategy plugin using the GUI.
+![Step1-14](images/step1-14.png)
+
+### Enable Role-Based strategy authorization schema in the GUI.
+![Step1-15](images/step1-15.png)
+
+### Create developers role and assign overall Read only permissions in the GUI.
+![Step1-16](images/step1-16.png)
+
+### Assign permissions to Tony using PAM in the GUI.
+![Step1-17](images/step1-17.png)
+
+### Assign new created user to the dev group.
+![Step1-18](images/step1-18.png)
+
+### Install the Matrix Authorization Strategy plugin in the GUI.
+![Step1-19](images/step1-19.png)
