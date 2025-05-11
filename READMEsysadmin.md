@@ -91,3 +91,21 @@ This project covers a series of standard Jenkins sysadmin tasks.
 
 ### Testing backup restore using the ThinkBackup plugin in the GUI.
 ![Step1-27](images/step1-27.png)
+
+### Testing backup restore using the ThinkBackup plugin in the GUI.
+![Step1-27](images/step1-27.png)
+
+### Install the Promethius metrics plugin.
+![Step1-28](images/step1-28.png)
+
+### Add Jenkins job to the Promethius YAML file on the host.
+![Step1-29](images/step1-29.png)
+
+### Confirm the Jenkins target is up in Promethius after cleaning up the scrape YAML config.
+![Step1-30](images/step1-30.png)
+
+### Run the Jenkins job count query in Promethius after adding the target.
+![Step1-31](images/step1-31.png)
+
+### Configure the Jenkins Default Dashboard in Grafana.
+![Step1-32](images/step1-32.png)
