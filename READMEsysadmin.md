@@ -133,3 +133,6 @@ This project covers a series of standard Jenkins sysadmin tasks.
 
 ### Create and test BlueOcean pipeline in GUI and validate completed with ocean.
 ![Step1-40](images/step1-40.png)
+
+### Install the RBAS plugin via GUI then change number of executors to 0 to prevent jobs from running on the built-in node.
+![Step1-41](images/step1-41.png)
