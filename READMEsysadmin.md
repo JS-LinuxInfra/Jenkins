@@ -136,3 +136,21 @@ This project covers a series of standard Jenkins sysadmin tasks.
 
 ### Install the RBAS plugin via GUI then change number of executors to 0 to prevent jobs from running on the built-in node.
 ![Step1-41](images/step1-41.png)
+
+### Install the SSH agent and Pipeline plugins, correct missing dependencies.
+![Step1-42](images/step1-42.png)
+
+### Create and configure Dev and Prod SSH agent nodes.
+![Step1-43](images/step1-43.png)
+
+### Add credentials to the global domain store for use in SSH node creation.
+![Step1-44](images/step1-44.png)
+
+### Restart the Jenkins service on the backend to finish plugin installation.
+![Step1-45](images/step1-45.png)
+
+### Build and configure multi-stage Development and Production jobs pulling from GitTea.
+![Step1-46](images/step1-46.png)
+
+### Pipeline build history.
+![Step1-47](images/step1-47.png)
