@@ -127,3 +127,9 @@ This project covers a series of standard Jenkins sysadmin tasks.
 
 ### Create node via node options in the GUI.
 ![Step1-38](images/step1-38.png)
+
+### Determine missing BlueOcean plugins and correct via installation.
+![Step1-39](images/step1-39.png)
+
+### Create and test BlueOcean pipeline in GUI and validate completed with ocean.
+![Step1-40](images/step1-40.png)
