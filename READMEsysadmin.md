@@ -118,3 +118,12 @@ This project covers a series of standard Jenkins sysadmin tasks.
 
 ### Confirm the go-test job ran without issue.
 ![Step1-35](images/step1-35.png)
+
+### Install the SSH build-agents plugin via the GUI.
+![Step1-36](images/step1-36.png)
+
+### Create new user account in the GUI via the credentials option.
+![Step1-37](images/step1-37.png)
+
+### Create node via node options in the GUI.
+![Step1-38](images/step1-38.png)
